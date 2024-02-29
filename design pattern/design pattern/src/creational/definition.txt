@@ -1,0 +1,3 @@
+Creational design patterns are a subset of design
+patterns in software engineering
+that focus on object creation mechanisms,

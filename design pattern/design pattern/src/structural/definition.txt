@@ -1,0 +1,3 @@
+Structural design patterns are a category of design patterns in software engineering
+that focus on organizing classes and objects to form larger structures and facilitate
+better interaction between them.
