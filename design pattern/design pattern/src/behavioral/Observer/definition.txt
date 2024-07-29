@@ -1,0 +1,2 @@
+notifies multiple object or subscribers about any event that happen to the object they're observing
+(allows you to change or take action on a set of objects whene and if the state of another object changes)
