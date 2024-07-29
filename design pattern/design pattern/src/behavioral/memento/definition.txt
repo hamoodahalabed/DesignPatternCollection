@@ -1,0 +1,1 @@
+used to capture and store the internal state of an object without exposing its implementation details.
