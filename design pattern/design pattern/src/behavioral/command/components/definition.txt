@@ -1,0 +1,1 @@
+ turns an action into an object. This way, you can treat the action like a package that you can send around, save, or run later.
