@@ -1,1 +1,3 @@
  turns an action into an object. This way, you can treat the action like a package that you can send around, save, or run later.
+invoker -> command -> reciver 
+ The Invoker doesn't care which Receiver is being called, it just triggers the Command.
